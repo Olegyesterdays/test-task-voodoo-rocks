@@ -1,0 +1,11 @@
+{
+  "not-found": {
+    "title": "404",
+    "message": "请求的页面未找到。"
+  },
+  "posts-page": {
+    "name-search": "姓名",
+    "author": "作者",
+    "unknown": "未知"
+  }
+}

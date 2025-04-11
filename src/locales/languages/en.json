@@ -1,0 +1,11 @@
+{
+  "not-found": {
+    "title": "404",
+    "message": "The page you requested was not found."
+  },
+  "posts-page": {
+    "name-search": "Name",
+    "author": "Author",
+    "unknown": "Unknown"
+  }
+}

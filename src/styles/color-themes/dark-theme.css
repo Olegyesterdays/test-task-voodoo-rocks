@@ -1,0 +1,8 @@
+.dark-theme {
+  --dominant-color: #e1e1e5;
+  --content-color: #2e2e4d;
+  --accent-color: #2929cc;
+
+  --error-color: #cc2929;
+  --good-color: #29cc29;
+}
